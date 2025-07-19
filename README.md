@@ -65,4 +65,4 @@
 🔗 Connect with me:
 <br>
 <br>
-<a href="https://www.linkedin.com/in/j%C3%BAnior-alves-teodoro/" target="_blank"><img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/e4613b20-902e-411e-8828-3c1d369fb185" /></a>  <a href="https://www.instagram.com/junior.a.teodoro/" target="_blank"><img width="24" height="24" alt="logo-instagram" src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon.png"/></a>
+<a href="https://www.linkedin.com/in/j%C3%BAnior-alves-teodoro/" target="blank"><img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/e4613b20-902e-411e-8828-3c1d369fb185" /></a>  <a href="https://www.instagram.com/junior.a.teodoro/" target="blank"><img width="24" height="24" alt="logo-instagram" src="https://imagepng.org/wp-content/uploads/2017/08/instagram-icone-icon.png"/></a>
